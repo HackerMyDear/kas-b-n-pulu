@@ -1,0 +1,7 @@
+{
+  "name": "Kasıbın Pulu",
+  "description": "Azərbaycan dilində, 'Milyonçu' formatında, gülməli və maraqlı suallarla zəngin intellektual oyun. 12 pilləli mükafat sistemi və AI dəstəkli jokerlər.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
